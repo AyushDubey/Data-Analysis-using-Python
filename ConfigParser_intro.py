@@ -2,7 +2,7 @@
 """
 Created on Mon Jul 25 13:05:47 2016
 
-@author: AY355513
+@author: AYUSH
 """
 # importing ConfigParser
 import ConfigParser
