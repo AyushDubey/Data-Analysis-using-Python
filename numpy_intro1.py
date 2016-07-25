@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 21 16:55:41 2016
 
-@author: AY355513
+@author: AYUSH
 """
 
 print "\n-----Numpy tuils Part-1------\n"
